@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BitFit-Part1</string>
+    <string name="no_food_added">No food added</string>
+    <string name="add_new_food">ADD NEW FOOD</string>
+</resources>
